@@ -8,8 +8,8 @@ Visit the project page: [https://dream25851.github.io/Bimanual_Folding/](https:/
 
 ## Authors and affiliations / 作者与单位
 
-- **Author / 作者:** Xiang Meng / 孟想 — undergraduate student, East China University of Science and Technology / 华东理工大学本科生.
-- **Author / 作者:** Mingzhe Liu / 刘明哲 — undergraduate student, East China University of Science and Technology / 华东理工大学本科生.
+- **Author / 作者:** Xiang Meng / 孟想 — East China University of Science and Technology / 华东理工大学.
+- **Author / 作者:** Mingzhe Liu / 刘明哲 — East China University of Science and Technology / 华东理工大学.
 - **Advisor / 指导教师:** Ning Guo / 郭宁 — School of Artificial Intelligence, Shanghai Jiao Tong University / 上海交通大学人工智能学院.
 
 This is a summer research project. We thank the [Human-Inspired Robotics Learning Lab (HIROL)](https://hirol.sjtu.edu.cn/), School of Artificial Intelligence, Shanghai Jiao Tong University, and its team, led by Prof. Wenzhao Lian (连文昭), for their support.

@@ -2,7 +2,7 @@
 
 Author order / 作者顺序: Xiang Meng (孟想), Mingzhe Liu (刘明哲).
 
-Both authors are undergraduate students at East China University of Science and Technology / 两位作者均为华东理工大学本科生。
+Author affiliation / 作者单位: East China University of Science and Technology / 华东理工大学。
 
 Advisor / 指导教师: Ning Guo (郭宁), School of Artificial Intelligence, Shanghai Jiao Tong University / 上海交通大学人工智能学院。
 
