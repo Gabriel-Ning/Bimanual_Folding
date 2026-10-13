@@ -8,6 +8,8 @@ Advisor / 指导教师: Ning Guo (郭宁), School of Artificial Intelligence, Sh
 
 Acknowledged laboratory / 致谢实验室: [Human-Inspired Robotics Learning Lab (HIROL), Shanghai Jiao Tong University / 上海交通大学类人智能实验室](https://hirol.sjtu.edu.cn/).
 
+We thank HIROL and its team, led by Prof. Wenzhao Lian (连文昭), for their support. / 感谢 HIROL 及连文昭教授带领的团队的支持。
+
 ## Suggested citation
 
 Xiang Meng and Mingzhe Liu. *Bimanual Towel Folding with Corrective Human-in-the-Loop Fine-Tuning*. Summer research project website. Advisor: Ning Guo. https://dream25851.github.io/Bimanual_Folding/. Include your access date when citing the live page.

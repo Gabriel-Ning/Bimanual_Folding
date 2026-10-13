@@ -815,7 +815,8 @@ footer {
   margin: 5px 0;
 }
 
-.project-credits .project-authors {
+.project-credits .project-authors,
+.project-credits .project-advisor {
   color: var(--ink);
   font-size: 1.2rem;
   font-weight: 650;
